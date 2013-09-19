@@ -31,7 +31,8 @@ thirdparty_intro
 
 ## 自然语言处理库
 
-* [nltk](https://github.com/nltk/nltk) - NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets and tutorials supporting research and development in Natural Language Processing.
+* [NLTK](https://github.com/nltk/nltk) - NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets and tutorials supporting research and development in Natural Language Processing.
+  [NLTK Book](https://github.com/nltk/nltk_book)
 * [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词.
 * [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 * [LTP](http://www.ltp-cloud.com/) - 语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年研制的一整套开放中文自然语言处理系统。
@@ -52,6 +53,7 @@ thirdparty_intro
 * [Lucene](http://lucene.apache.org/) - The Apache Lucene project develops open-source search software.
 * [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 * [wukong](https://github.com/huichen/wukong) - 悟空全文搜索引擎.
+* [Scrapy](http://scrapy.org) - a fast high-level screen scraping and web crawling framework for Python. 
 * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis, mongodb,graphite实现的一个分布式网络爬虫,底层存储mongodb集群,分布式使用redis实现, 爬虫状态显示使用graphite实现。
 
 ## 机器学习库
@@ -66,6 +68,7 @@ thirdparty_intro
 * [word2vec](https://code.google.com/p/word2vec/) - Tool for computing continuous distributed representations of words.
 * [Maximum Entropy Modeling Toolkit for Python and C++](https://github.com/lzhang10/maxent) - This package provides a (Conditional) Maximum Entropy Modeling Toolkit for Python and C++. 
 * [maxent](http://www.nactem.ac.uk/tsuruoka/maxent/) - A simple C++ library for maximum entropy classification.
+* [easyME](https://github.com/nicyun/easyME) - This is a simple implementation of Maximum Entropy model. Algorithms implemented include: GIS, SCGIS, LBFGS, Gaussian smoothing and Exponential smoothing.
 * [libLBFGS](http://www.chokkan.org/software/liblbfgs/) - This library is a C port of the implementation of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) method written by Jorge Nocedal. 
 * [OWL-QN](http://research.microsoft.com/en-us/downloads/b1eb1016-1738-4bd5-83a9-370c9d498a03/) - The Orthant-Wise Limited-memory Quasi-Newton algorithm (OWL-QN) is a numerical optimization procedure for finding the optimum of an objective of the form {smooth function} plus {L1-norm of the parameters}. It has been used for training log-linear models (such as logistic regression) with L1-regularization.
 * [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html?source=navbar) - CRF++ is a simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data. CRF++ is designed for generic purpose and will be applied to a variety of NLP tasks, such as Named Entity Recognition, Information Extraction and Text Chunking.
@@ -96,6 +99,7 @@ thirdparty_intro
 
 * [thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 * [server1](https://code.google.com/p/server1/) - a c++ network server/client framework.
+* [muduo-protorpc](https://github.com/chenshuo/muduo-protorpc) - Google Prorobuf RPC based on Muduo.
 
 ## Web 开发
 

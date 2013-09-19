@@ -42,12 +42,15 @@ thirdparty_intro
 * [Moses](http://www.statmt.org/moses/) - Moses is a statistical machine translation system that allows you to automatically train translation models for any language pair.
 * [GIZA++](https://code.google.com/p/giza-pp/) - GIZA++ is a statical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model.
 * [genius](https://github.com/duanhongyi/genius) - genius中文分词，是基于crf条件随机场的分组件.
+* [sego](https://github.com/huichen/sego) - Go中文分词.
+* [pinyin](https://github.com/huichen/pinyin) - Go语言汉字转拼音工具.
 
 ## 信息检索库
 
 * [Lemur](http://www.lemurproject.org/) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software. 
 * [Lucene](http://lucene.apache.org/) - The Apache Lucene project develops open-source search software.
 * [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+* [wukong](https://github.com/huichen/wukong) - 悟空全文搜索引擎.
 
 ## 机器学习库
 

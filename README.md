@@ -112,3 +112,7 @@ thirdparty_intro
 
 * [rietveld](http://code.google.com/p/rietveld/) - Code Review, hosted on Google App Engine.
 * [Review Board](http://www.reviewboard.org/) - Take the pain out of code review.
+
+## vim
+
+* [spf13-vim](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.  It is a completely cross platform distribution that stays true to the feel of vim while providing modern features like a plugin management system, autocomplete, tags and tons more.

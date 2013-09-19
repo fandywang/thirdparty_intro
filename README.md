@@ -97,6 +97,15 @@ thirdparty_intro
 * [Bootstrap](http://getbootstrap.com/) - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 * [Django](https://www.djangoproject.com/) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
+## 分布式计算
+
+* [Hadoop](http://hadoop.apache.org/) - The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+* [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. 
+* [Storm](http://storm-project.net/) - Distributed and fault-tolerant realtime computation.
+* [Spark](http://spark.incubator.apache.org/) - Lightning-Fast Cluster Computing.
+* [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
+* [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.
+
 ## 正则表达式
 
 * [re2](http://code.google.com/p/re2/) - an efficient, principled regular expression library.

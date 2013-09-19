@@ -25,13 +25,24 @@ thirdparty_intro
 * [sparsehash](https://code.google.com/p/sparsehash/?redir=1) - An extremely memory-efficient hash_map implementation。
 * [cityhash](https://code.google.com/p/cityhash/) - The CityHash family of hash functions.
 * [stringencoders](https://code.google.com/p/stringencoders/) - A collection of high performance c-string transformations, frequently 2x faster than standard implementations (if they exist at all).
+* [Numpy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 
-## 自然语言处理 & 信息检索 & 机器学习库
+## 自然语言处理库
 
 * [nltk](https://github.com/nltk/nltk) - NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets and tutorials supporting research and development in Natural Language Processing.
 * [jieba](https://github.com/fxsjy/jieba) - 结巴中文分词.
 * [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+* [LTP](http://www.ltp-cloud.com/) - 语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年研制的一整套开放中文自然语言处理系统。
+* [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, and mark up the structure of sentences in terms of phrases and word dependencies, and indicate which noun phrases refer to the same entities. 
+* [openNLP](http://opennlp.apache.org/) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
+
+## 信息检索库
+
 * [Lemur](http://www.lemurproject.org/) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software. 
+* [Lucene](http://lucene.apache.org/) - The Apache Lucene project develops open-source search software.
+
+## 机器学习库
+
 * [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) - A Library for Support Vector Machines.
 * [liblinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/) - A Library for Large Linear Classification.
 * [RankLib](http://people.cs.umass.edu/~vdang/ranklib.html) - RankLib is a library of learning to rank algorithms. 
@@ -41,8 +52,12 @@ thirdparty_intro
 * [GibbsLDA++](http://gibbslda.sourceforge.net/) - A C/C++ implementation of Latent Dirichlet Allocation (LDA) using Gibbs Sampling technique for parameter estimation and inference.
 * [Yahoo_LDA](https://github.com/shravanmn/Yahoo_LDA) - Yahoo!'s topic modelling framework using Latent Dirichlet Allocation
 * [mahout](http://mahout.apache.org/) - The Apache Mahout machine learning library's goal is to build scalable machine learning libraries.
+* [Maximum Entropy Modeling Toolkit for Python and C++](https://github.com/lzhang10/maxent) - This package provides a (Conditional) Maximum Entropy Modeling Toolkit for Python and C++. 
 * [maxent](http://www.nactem.ac.uk/tsuruoka/maxent/) - A simple C++ library for maximum entropy classification.
-
+* [libLBFGS](http://www.chokkan.org/software/liblbfgs/) - This library is a C port of the implementation of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) method written by Jorge Nocedal. 
+* [OWL-QN](http://research.microsoft.com/en-us/downloads/b1eb1016-1738-4bd5-83a9-370c9d498a03/) - The Orthant-Wise Limited-memory Quasi-Newton algorithm (OWL-QN) is a numerical optimization procedure for finding the optimum of an objective of the form {smooth function} plus {L1-norm of the parameters}. It has been used for training log-linear models (such as logistic regression) with L1-regularization.
+* [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html?source=navbar) - CRF++ is a simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data. CRF++ is designed for generic purpose and will be applied to a variety of NLP tasks, such as Named Entity Recognition, Information Extraction and Text Chunking.
+* [CRFsuite](http://www.chokkan.org/software/crfsuite/) - A fast implementation of Conditional Random Fields (CRFs).
 * [MLTK](https://github.com/fandywang/mltk) - MLTK -- the Machine Learning Toolkit -- is a suite of C++ open source modules of Machine Learning. 
 * [FP-growth](https://github.com/enaeseth/python-fp-growth) - An implementation of the FP-growth algorithm in pure Python.
 
@@ -64,6 +79,10 @@ thirdparty_intro
 
 * [thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 * [server1](https://code.google.com/p/server1/) - a c++ network server/client framework.
+
+## Web 开发
+
+* [Flask](http://flask.pocoo.org/) - Flask is a microframework for Python based on Werkzeug and Jinja2.  It's intended for getting started very quickly and was developed with best intentions in mind.
 
 ## 正则表达式
 

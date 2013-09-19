@@ -10,6 +10,7 @@ thirdparty_intro
 * [gtest](https://code.google.com/p/googletest/) - Google C++ Testing Framework.
 * [googlemock](https://code.google.com/p/googlemock/) - Google C++ Mocking Framework.
 * [leveldb](http://code.google.com/p/leveldb/) - A fast and lightweight key/value database library by Google.
+  [cpy-leveldb](https://github.com/carlopires/cpy-leveldb) - Python bindings for LevelDB using leveldb c api.
 * [The Chromium Projects](http://www.chromium.org/) - The Chromium projects include Chromium and Chromium OS, the open-source projects behind the Google Chrome browser and Google Chrome OS, respectively. 
 
 ## C++ base 库
@@ -51,6 +52,7 @@ thirdparty_intro
 * [Lucene](http://lucene.apache.org/) - The Apache Lucene project develops open-source search software.
 * [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 * [wukong](https://github.com/huichen/wukong) - 悟空全文搜索引擎.
+* [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 使用scrapy,redis, mongodb,graphite实现的一个分布式网络爬虫,底层存储mongodb集群,分布式使用redis实现, 爬虫状态显示使用graphite实现。
 
 ## 机器学习库
 

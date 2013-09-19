@@ -3,6 +3,7 @@ thirdparty_intro
 
 ## Google 开源库
 
+* [zh-google-styleguide](http://zh-google-styleguide.readthedocs.org/en/latest/) - Google 开源项目风格指南.
 * [protobuf](https://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
 * [gflags](https://code.google.com/p/gflags/) - Commandline flags module for C++. 
 * [glog](https://code.google.com/p/google-glog/) - Logging library for C++.  

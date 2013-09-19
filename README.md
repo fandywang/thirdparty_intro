@@ -35,11 +35,17 @@ thirdparty_intro
 * [LTP](http://www.ltp-cloud.com/) - 语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年研制的一整套开放中文自然语言处理系统。
 * [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, and mark up the structure of sentences in terms of phrases and word dependencies, and indicate which noun phrases refer to the same entities. 
 * [openNLP](http://opennlp.apache.org/) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
+* [SRILM](http://www.speech.sri.com/projects/srilm/) - SRILM is a toolkit for building and applying statistical language models (LMs), primarily for use in speech recognition, statistical tagging and segmentation, and machine translation. 
+* [IRSTLM](http://hlt.fbk.eu/en/irstlm) - The IRST Language Modeling Toolkit features algorithms and data structures suitable to estimate, store, and access very large LMs. 
+* [KenLM](http://kheafield.com/code/kenlm/estimation/) - KenLM estimates unpruned language models with modified Kneser-Ney smoothing.
+* [Moses](http://www.statmt.org/moses/) - Moses is a statistical machine translation system that allows you to automatically train translation models for any language pair.
+* [GIZA++](https://code.google.com/p/giza-pp/) - GIZA++ is a statical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model.
 
 ## 信息检索库
 
 * [Lemur](http://www.lemurproject.org/) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software. 
 * [Lucene](http://lucene.apache.org/) - The Apache Lucene project develops open-source search software.
+* [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 
 ## 机器学习库
 

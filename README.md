@@ -47,17 +47,18 @@ thirdparty_intro
 * [liblinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/) - A Library for Large Linear Classification.
 * [RankLib](http://people.cs.umass.edu/~vdang/ranklib.html) - RankLib is a library of learning to rank algorithms. 
 * [svmlight](http://www.cs.cornell.edu/people/tj/svm_light/) - SVMlight is an implementation of Support Vector Machines (SVMs) in C.
-* [sofia-ml](http://code.google.com/p/sofia-ml/) - Suite of Fast Incremental Algorithms for Machine Learning. Includes methods for learning classification and ranking models, using Pegasos SVM, SGD-SVM, ROMMA, Passive-Aggressive Perceptron, Perceptron with Margins, and Logistic Regression.
 * [plda](http://code.google.com/p/plda/) - A parallel C++ implementation of fast Gibbs sampling of Latent Dirichlet Allocation
 * [GibbsLDA++](http://gibbslda.sourceforge.net/) - A C/C++ implementation of Latent Dirichlet Allocation (LDA) using Gibbs Sampling technique for parameter estimation and inference.
 * [Yahoo_LDA](https://github.com/shravanmn/Yahoo_LDA) - Yahoo!'s topic modelling framework using Latent Dirichlet Allocation
-* [mahout](http://mahout.apache.org/) - The Apache Mahout machine learning library's goal is to build scalable machine learning libraries.
+* [word2vec](https://code.google.com/p/word2vec/) - Tool for computing continuous distributed representations of words.
 * [Maximum Entropy Modeling Toolkit for Python and C++](https://github.com/lzhang10/maxent) - This package provides a (Conditional) Maximum Entropy Modeling Toolkit for Python and C++. 
 * [maxent](http://www.nactem.ac.uk/tsuruoka/maxent/) - A simple C++ library for maximum entropy classification.
 * [libLBFGS](http://www.chokkan.org/software/liblbfgs/) - This library is a C port of the implementation of Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) method written by Jorge Nocedal. 
 * [OWL-QN](http://research.microsoft.com/en-us/downloads/b1eb1016-1738-4bd5-83a9-370c9d498a03/) - The Orthant-Wise Limited-memory Quasi-Newton algorithm (OWL-QN) is a numerical optimization procedure for finding the optimum of an objective of the form {smooth function} plus {L1-norm of the parameters}. It has been used for training log-linear models (such as logistic regression) with L1-regularization.
 * [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html?source=navbar) - CRF++ is a simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data. CRF++ is designed for generic purpose and will be applied to a variety of NLP tasks, such as Named Entity Recognition, Information Extraction and Text Chunking.
 * [CRFsuite](http://www.chokkan.org/software/crfsuite/) - A fast implementation of Conditional Random Fields (CRFs).
+* [sofia-ml](http://code.google.com/p/sofia-ml/) - Suite of Fast Incremental Algorithms for Machine Learning. Includes methods for learning classification and ranking models, using Pegasos SVM, SGD-SVM, ROMMA, Passive-Aggressive Perceptron, Perceptron with Margins, and Logistic Regression.
+* [mahout](http://mahout.apache.org/) - The Apache Mahout machine learning library's goal is to build scalable machine learning libraries.
 * [MLTK](https://github.com/fandywang/mltk) - MLTK -- the Machine Learning Toolkit -- is a suite of C++ open source modules of Machine Learning. 
 * [FP-growth](https://github.com/enaeseth/python-fp-growth) - An implementation of the FP-growth algorithm in pure Python.
 
@@ -83,6 +84,8 @@ thirdparty_intro
 ## Web 开发
 
 * [Flask](http://flask.pocoo.org/) - Flask is a microframework for Python based on Werkzeug and Jinja2.  It's intended for getting started very quickly and was developed with best intentions in mind.
+* [Bootstrap](http://getbootstrap.com/) - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+* [Django](https://www.djangoproject.com/) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
 ## 正则表达式
 
@@ -90,6 +93,8 @@ thirdparty_intro
 
 ## 编译工具
 
+* [SCons](http://www.scons.org/) - SCons is an Open Source software construction tool—that is, a next-generation build tool. Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache. In short, SCons is an easier, more reliable and faster way to build software.
+* [CMake](http://www.cmake.org/) - the cross-platform, open-source build system. 
 * [blade](http://code.tencent.com/projects/blade/) - Blade is designed to be a modernize building system.
 * [bobo](https://github.com/bin3/bobo) - Bobo is an easy to use building tool inspired by blade.
 

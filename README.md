@@ -64,10 +64,13 @@ thirdparty_intro
 * [OWL-QN](http://research.microsoft.com/en-us/downloads/b1eb1016-1738-4bd5-83a9-370c9d498a03/) - The Orthant-Wise Limited-memory Quasi-Newton algorithm (OWL-QN) is a numerical optimization procedure for finding the optimum of an objective of the form {smooth function} plus {L1-norm of the parameters}. It has been used for training log-linear models (such as logistic regression) with L1-regularization.
 * [CRF++](http://crfpp.googlecode.com/svn/trunk/doc/index.html?source=navbar) - CRF++ is a simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data. CRF++ is designed for generic purpose and will be applied to a variety of NLP tasks, such as Named Entity Recognition, Information Extraction and Text Chunking.
 * [CRFsuite](http://www.chokkan.org/software/crfsuite/) - A fast implementation of Conditional Random Fields (CRFs).
+* [Wapiti](http://wapiti.limsi.fr/) - Wapiti is a very fast toolkit for segmenting and labeling sequences with discriminative models. It is based on maxent models, maximum entropy Markov models and linear-chain CRF and proposes various optimization and regularization methods to improve both the computational complexity and the prediction performance of standard models.
 * [sofia-ml](http://code.google.com/p/sofia-ml/) - Suite of Fast Incremental Algorithms for Machine Learning. Includes methods for learning classification and ranking models, using Pegasos SVM, SGD-SVM, ROMMA, Passive-Aggressive Perceptron, Perceptron with Margins, and Logistic Regression.
 * [mahout](http://mahout.apache.org/) - The Apache Mahout machine learning library's goal is to build scalable machine learning libraries.
 * [MLTK](https://github.com/fandywang/mltk) - MLTK -- the Machine Learning Toolkit -- is a suite of C++ open source modules of Machine Learning. 
 * [FP-growth](https://github.com/enaeseth/python-fp-growth) - An implementation of the FP-growth algorithm in pure Python.
+
+* [MLcomp](http://mlcomp.org/) - MLcomp is a free website for objectively comparing machine learning programs across various datasets for multiple problem domains.
 
 ## 数据交换协议
 

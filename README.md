@@ -40,6 +40,7 @@ thirdparty_intro
 * [KenLM](http://kheafield.com/code/kenlm/estimation/) - KenLM estimates unpruned language models with modified Kneser-Ney smoothing.
 * [Moses](http://www.statmt.org/moses/) - Moses is a statistical machine translation system that allows you to automatically train translation models for any language pair.
 * [GIZA++](https://code.google.com/p/giza-pp/) - GIZA++ is a statical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model.
+* [genius](https://github.com/duanhongyi/genius) - genius中文分词，是基于crf条件随机场的分组件.
 
 ## 信息检索库
 

@@ -139,7 +139,10 @@ thirdparty_intro
 * [spf13-vim](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.  It is a completely cross platform distribution that stays true to the feel of vim while providing modern features like a plugin management system, autocomplete, tags and tons more.
 * [Maximum Awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux, lovingly tended by a small subculture of peace-loving hippies. Built for Mac OS X.
 
-# golang base 库
+## golang base 库
 
 * [glog](https://github.com/golang/glog) - Leveled execution logs for Go. 
 * [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+
+# Python 学习
+* [pycrumbs](https://github.com/kirang89/pycrumbs) - Bits and Bytes of Python from the Internet.

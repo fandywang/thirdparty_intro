@@ -46,6 +46,7 @@ thirdparty_intro
 * [genius](https://github.com/duanhongyi/genius) - genius中文分词，是基于crf条件随机场的分组件.
 * [sego](https://github.com/huichen/sego) - Go中文分词.
 * [pinyin](https://github.com/huichen/pinyin) - Go语言汉字转拼音工具.
+* [ReVerb](https://github.com/knowitall/reverb/) - ReVerb is a program that automatically identifies and extracts binary relationships from English sentences. ReVerb is designed for Web-scale information extraction, where the target relations cannot be specified in advance and speed is important.
 
 ## 信息检索库
 

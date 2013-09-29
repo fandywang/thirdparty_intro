@@ -114,10 +114,11 @@ thirdparty_intro
 * [Hadoop](http://hadoop.apache.org/) - The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
 * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. 
 * [Storm](http://storm-project.net/) - Distributed and fault-tolerant realtime computation.
-  [Storm 维基](https://github.com/nathanmarz/storm/wiki) 提供了有关 Storm、它的理论基础的大量优秀文档，以及有关获取 Storm 和设置新项目的各种教程。您还将找到一些有关 Storm 的许多方面的实用文档，包括 Storm 在本地模式、集群模式和在 Amazon 上的使用。
+  [Storm 维基](https://github.com/nathanmarz/storm/wiki) - 提供了有关 Storm、它的理论基础的大量优秀文档，以及有关获取 Storm 和设置新项目的各种教程。您还将找到一些有关 Storm 的许多方面的实用文档，包括 Storm 在本地模式、集群模式和在 Amazon 上的使用。
   GitHub 上提供了 Storm 的一个 [thorough class tree exists](http://nathanmarz.github.io/storm/doc/index.html)，详细介绍了 Storm 的类和接口。
-  [使用 Twitter Storm 处理实时的大数据](http://www.ibm.com/developerworks/cn/opensource/os-twitterstorm/) 流式处理大数据简介 简介： Storm 是一个开源的、大数据处理系统，与其他系统不同，它旨在用于分布式实时处理且与语言无关。了解 Twitter Storm、它的架构，以及批处理和流式处理解决方案的发展形势。
-  [Storm 入门教程](http://blog.linezing.com/category/storm-quick-start?spm=0.0.0.0.oU9c5c) 来自[量子恒道官方博客](http://blog.linezing.com/?spm=0.0.0.0.5QdtJI)
+  [使用 Twitter Storm 处理实时的大数据](http://www.ibm.com/developerworks/cn/opensource/os-twitterstorm/) - 流式处理大数据简介 简介： Storm 是一个开源的、大数据处理系统，与其他系统不同，它旨在用于分布式实时处理且与语言无关。了解 Twitter Storm、它的架构，以及批处理和流式处理解决方案的发展形势。
+  [Storm 入门教程](http://blog.linezing.com/category/storm-quick-start?spm=0.0.0.0.oU9c5c) - 来自[量子恒道官方博客](http://blog.linezing.com/?spm=0.0.0.0.5QdtJI)
+  [storm-starter](https://github.com/nathanmarz/storm-starter) - Learn to use Storm!
 * [Spark](http://spark.incubator.apache.org/) - Lightning-Fast Cluster Computing.
 * [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 * [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.

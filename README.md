@@ -95,6 +95,8 @@ thirdparty_intro
 * [MongodDB](http://www.mongodb.org/) - MongoDB (from "humongous") is an open-source document database, and the leading NoSQL database. Written in C++.
 * [memcached](http://memcached.org/) - Free & open source, high-performance, distributed memory object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load.
 * [leveldb](http://code.google.com/p/leveldb/) - A fast and lightweight key/value database library by Google.
+* [SSDB](https://github.com/ideawu/ssdb) - A fast NoSQL database server with zset data type, an alternative to Redis. SSDB is a high performace key-value(key-string, key-zset, key-hashmap) NoSQL persistent storage server, using Google LevelDB as storage engine. SSDB is stable, production-ready and is widely used by many Internet companies such as QIHU 360.
+* [fatcache](https://github.com/twitter/fatcache) - Memcache on SSD. Think of fatcache as a cache for your big data.
 
 ## 网络编程
 

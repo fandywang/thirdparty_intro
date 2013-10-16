@@ -124,6 +124,7 @@ thirdparty_intro
 * [Spark](http://spark.incubator.apache.org/) - Lightning-Fast Cluster Computing.
 * [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 * [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.
+* [Skynet](https://github.com/skynetservices/skynet) - Skynet is a framework for distributed services in Go.
 
 ## 正则表达式
 
@@ -151,6 +152,10 @@ thirdparty_intro
 
 * [glog](https://github.com/golang/glog) - Leveled execution logs for Go. 
 * [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+
+## Go 学习
+
+* [Go语言资料收集](https://github.com/wonderfo/wonderfogo/wiki) - 
 
 ## Python 学习
 

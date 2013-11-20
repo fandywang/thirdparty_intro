@@ -81,7 +81,6 @@ thirdparty_intro
 * [mahout](http://mahout.apache.org/) - The Apache Mahout machine learning library's goal is to build scalable machine learning libraries.
 * [MLTK](https://github.com/fandywang/mltk) - MLTK -- the Machine Learning Toolkit -- is a suite of C++ open source modules of Machine Learning. 
 * [FP-growth](https://github.com/enaeseth/python-fp-growth) - An implementation of the FP-growth algorithm in pure Python.
-
 * [MLcomp](http://mlcomp.org/) - MLcomp is a free website for objectively comparing machine learning programs across various datasets for multiple problem domains.
 
 ## 数据交换协议

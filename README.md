@@ -140,7 +140,9 @@ thirdparty_intro
 * [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - 这个框架几乎是 Python 下异步消息架构的终极解决方案.
 * [GraphChi](http://graphlab.org/graphchi/) - GraphChi[huahua] is a spin-off of the GraphLab[rador's retriever] project.
   GraphChi can run very large graph computations on just a single machine, by using a novel algorithm for processing the graph from disk (SSD or hard drive). Programs for GraphChi are written in similar vertex-centric model as  GraphLab. GraphChi runs vertex-centric programs asynchronously (i.e changes written to edges are immediately visible to subsequent computation), and in parallel. GraphChi also supports streaming graph updates and changing the graph structure while computing.
-  [GraphChi ppt](http://t.cn/8DDPr7N).
+  [GraphChi ppt](http://t.cn/8DDPr7N). 
+  [GraphChi Paper](http://select.cs.cmu.edu/publications/paperdir/osdi2012-kyrola-blelloch-guestrin.pdf). 
+  [GraphChi Video](https://www.usenix.org/conference/osdi12/126-graphchi-large-scale-graph-computation-just-pc).
   [GraphChi's C++ version. ](https://github.com/GraphChi/graphchi-cpp) -disk-based large-scale graph computation. Big Data - small machine.
 * [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.
 * [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - Celery is a simple, flexible and reliable distributed system to process vast amounts of messages, while providing operations with the tools required to maintain such a system.

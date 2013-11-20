@@ -125,6 +125,8 @@ thirdparty_intro
 * [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 * [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.
 * [Skynet](https://github.com/skynetservices/skynet) - Skynet is a framework for distributed services in Go.
+* [Kafka](http://kafka.apache.org/) - 分布式消息队列系统，A high-throughput distributed messaging system. 
+  [Kafka Clients](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
 ## 正则表达式
 

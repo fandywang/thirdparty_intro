@@ -47,6 +47,7 @@ thirdparty_intro
 * [sego](https://github.com/huichen/sego) - Go中文分词.
 * [pinyin](https://github.com/huichen/pinyin) - Go语言汉字转拼音工具.
 * [ReVerb](https://github.com/knowitall/reverb/) - ReVerb is a program that automatically identifies and extracts binary relationships from English sentences. ReVerb is designed for Web-scale information extraction, where the target relations cannot be specified in advance and speed is important.
+* [Statistical natural language processing and corpus-based computational linguistics: An annotated list of resources](http://www-nlp.stanford.edu/links/statnlp.html) - 斯坦福自然语言组的NLP及计算语言学的资料汇总：包括各种工具，代码，语料库，字典，课程的链接及简单介绍。http://t.cn/zOfVAzs
 
 ## 信息检索库
 
@@ -67,6 +68,7 @@ thirdparty_intro
 * [GibbsLDA++](http://gibbslda.sourceforge.net/) - A C/C++ implementation of Latent Dirichlet Allocation (LDA) using Gibbs Sampling technique for parameter estimation and inference.
 * [Yahoo_LDA](https://github.com/shravanmn/Yahoo_LDA) - Yahoo!'s topic modelling framework using Latent Dirichlet Allocation
 * [word2vec](https://code.google.com/p/word2vec/) - Tool for computing continuous distributed representations of words.
+  [Parallelizing word2vec in Python](http://radimrehurek.com/2013/10/parallelizing-word2vec-in-python/)
 * [Maximum Entropy Modeling Toolkit for Python and C++](https://github.com/lzhang10/maxent) - This package provides a (Conditional) Maximum Entropy Modeling Toolkit for Python and C++. 
 * [maxent](http://www.nactem.ac.uk/tsuruoka/maxent/) - A simple C++ library for maximum entropy classification.
 * [easyME](https://github.com/nicyun/easyME) - This is a simple implementation of Maximum Entropy model. Algorithms implemented include: GIS, SCGIS, LBFGS, Gaussian smoothing and Exponential smoothing.
@@ -100,6 +102,7 @@ thirdparty_intro
 * [RocksDB](http://rocksdb.org/index.html) - RocksDB is an embeddable persistent key-value store for fast storage. RocksDB can also be the foundation for a client-server database but our current focus is on embedded workloads.
   RocksDB builds on LevelDB to be scalable to run on servers with many CPU cores, to efficiently use fast storage, to support IO-bound, in-memory and write-once workloads, and to be flexible to allow for innovation.
 * [fatcache](https://github.com/twitter/fatcache) - Memcache on SSD. Think of fatcache as a cache for your big data.
+* [THUIRDB](http://xunren.thuir.org/thuirdb/) - THUIRDB是一个C++语言实现的基础库，用于在单机上实现高性能key-value持久化存储和高速查询。[THUIRDB Paper](http://www.jofcis.com/publishedpapers/2013_9_6_2347_2355.pdf)
 
 ## 网络编程
 
@@ -126,10 +129,18 @@ thirdparty_intro
   [storm-starter](https://github.com/nathanmarz/storm-starter) - Learn to use Storm!
 * [Spark](http://spark.incubator.apache.org/) - Lightning-Fast Cluster Computing.
 * [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
-* [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.
 * [Skynet](https://github.com/skynetservices/skynet) - Skynet is a framework for distributed services in Go.
 * [Kafka](http://kafka.apache.org/) - 分布式消息队列系统，A high-throughput distributed messaging system. 
-  [Kafka Clients](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
+  [Kafka Clients](https://cwiki.apache.org/confluence/display/KAFKA/Clients)  [librdkafka](https://github.com/edenhill/librdkafka) [kafka-python](https://github.com/mumrah/kafka-python)
+* [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - 这个框架几乎是 Python 下异步消息架构的终极解决方案.
+* [GraphChi](http://graphlab.org/graphchi/) - GraphChi[huahua] is a spin-off of the GraphLab[rador's retriever] project.
+  GraphChi can run very large graph computations on just a single machine, by using a novel algorithm for processing the graph from disk (SSD or hard drive). Programs for GraphChi are written in similar vertex-centric model as  GraphLab. GraphChi runs vertex-centric programs asynchronously (i.e changes written to edges are immediately visible to subsequent computation), and in parallel. GraphChi also supports streaming graph updates and changing the graph structure while computing.
+  [GraphChi ppt](http://t.cn/8DDPr7N).
+  [GraphChi's C++ version. ](https://github.com/GraphChi/graphchi-cpp) -disk-based large-scale graph computation. Big Data - small machine.
+* [Giraph](http://giraph.apache.org/) - Large-scale graph processing on Hadoop.
+* [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - Celery is a simple, flexible and reliable distributed system to process vast amounts of messages, while providing operations with the tools required to maintain such a system.
+  It’s a task queue with focus on real-time processing, while also supporting task scheduling.
+  这个框架几乎是 Python 下异步消息架构的终极解决方案.
 
 ## 正则表达式
 
@@ -153,15 +164,22 @@ thirdparty_intro
 * [Maximum Awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux, lovingly tended by a small subculture of peace-loving hippies. Built for Mac OS X.
 * [VimClojure](https://github.com/vim-scripts/VimClojure) - A filetype, syntax and indent plugin for Clojure.
 
-## golang base 库
+## Go 学习
 
 * [glog](https://github.com/golang/glog) - Leveled execution logs for Go. 
 * [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-
-## Go 学习
-
+* [go-slab](https://github.com/couchbaselabs/go-slab) - A slab allocator library in the Go Programming Language.
 * [Go语言资料收集](https://github.com/wonderfo/wonderfogo/wiki) - 
 
 ## Python 学习
 
 * [pycrumbs](https://github.com/kirang89/pycrumbs) - Bits and Bytes of Python from the Internet.
+
+## 自动化部署引擎
+
+* [Docker](http://www.docker.io/) - Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. 
+  Docker 是一个开源自动化部署引擎，它可以将任何应用封装成一个简单、便携、不依赖于其他组件的容器，从而轻松地将其部署在各种虚拟环境中，以便进行各种调试。它既保证了应用的私有性，同时缩短了调试部署的周期，使得测试-封装-部署变得更加容易和便捷。不过现在Docker还在加紧开发中，相信等它开发完毕后，它会给人们的开发带来前所未有的便捷。
+
+## 其他
+
+* [Valgrind](http://valgrind.org/) - Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.

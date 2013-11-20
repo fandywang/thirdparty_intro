@@ -61,6 +61,10 @@ thirdparty_intro
 ## 机器学习库
 
 * [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) - A Library for Support Vector Machines.
+  [支持向量机通俗导论（理解SVM的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837) 来自[研究者July](http://weibo.com/julyweibo?s=6cm7D0). 在本文中，你将看到，理解SVM分三层境界，
+  第一层: 了解SVM(你只需要对SVM有个大致的了解，知道它是个什么东西便已足够)；
+  第二层: 深入SVM(你将跟我一起深入SVM的内部原理，通晓其各处脉络，以为将来运用它时游刃有余)；
+  第三层: 证明SVM(当你了解了所有的原理之后，你会有大笔一挥，尝试证明它的冲动)。
 * [liblinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/) - A Library for Large Linear Classification.
 * [RankLib](http://people.cs.umass.edu/~vdang/ranklib.html) - RankLib is a library of learning to rank algorithms. 
 * [svmlight](http://www.cs.cornell.edu/people/tj/svm_light/) - SVMlight is an implementation of Support Vector Machines (SVMs) in C.

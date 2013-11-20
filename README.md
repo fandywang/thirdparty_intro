@@ -129,8 +129,10 @@ thirdparty_intro
 * [Spark](http://spark.incubator.apache.org/) - Lightning-Fast Cluster Computing.
 * [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 * [Skynet](https://github.com/skynetservices/skynet) - Skynet is a framework for distributed services in Go.
-* [Kafka](http://kafka.apache.org/) - 分布式消息队列系统，A high-throughput distributed messaging system. 
-  [Kafka Clients](https://cwiki.apache.org/confluence/display/KAFKA/Clients)  [librdkafka](https://github.com/edenhill/librdkafka) [kafka-python](https://github.com/mumrah/kafka-python)
+* [Kafka](http://kafka.apache.org/) - 分布式消息队列系统，A high-throughput distributed messaging system.  [Kafka paper: Building LinkedIn’s Real-time Activity Data Pipeline](http://sites.computer.org/debull/A12june/pipeline.pdf)
+  [Kafka Clients](https://cwiki.apache.org/confluence/display/KAFKA/Clients)  
+  [librdkafka](https://github.com/edenhill/librdkafka) 
+  [kafka-python](https://github.com/mumrah/kafka-python)
 * [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - 这个框架几乎是 Python 下异步消息架构的终极解决方案.
 * [GraphChi](http://graphlab.org/graphchi/) - GraphChi[huahua] is a spin-off of the GraphLab[rador's retriever] project.
   GraphChi can run very large graph computations on just a single machine, by using a novel algorithm for processing the graph from disk (SSD or hard drive). Programs for GraphChi are written in similar vertex-centric model as  GraphLab. GraphChi runs vertex-centric programs asynchronously (i.e changes written to edges are immediately visible to subsequent computation), and in parallel. GraphChi also supports streaming graph updates and changing the graph structure while computing.

@@ -158,6 +158,7 @@ thirdparty_intro
 * [SCons](http://www.scons.org/) - SCons is an Open Source software construction tool—that is, a next-generation build tool. Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache. In short, SCons is an easier, more reliable and faster way to build software.
 * [CMake](http://www.cmake.org/) - the cross-platform, open-source build system. 
 * [blade](http://code.tencent.com/projects/blade/) - Blade is designed to be a modernize building system.
+  [Mac OS X port of Typhoon Blade](https://github.com/wangkuiyi/typhoon-blade)
 * [bobo](https://github.com/bin3/bobo) - Bobo is an easy to use building tool inspired by blade.
 
 ## Code Review

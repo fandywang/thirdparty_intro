@@ -60,6 +60,7 @@ thirdparty_intro
 
 ## 机器学习库
 
+* [LASSO](https://github.com/wangkuiyi/lasso) - LASSO is a parallel machine learning system that learns a regression model from large data. It works in either of two modes: IPM-mode and MPI-mode.
 * [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) - A Library for Support Vector Machines.
   [支持向量机通俗导论（理解SVM的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837) 来自[研究者July](http://weibo.com/julyweibo?s=6cm7D0). 在本文中，你将看到，理解SVM分三层境界，
   第一层: 了解SVM(你只需要对SVM有个大致的了解，知道它是个什么东西便已足够)；
@@ -138,6 +139,7 @@ thirdparty_intro
   [librdkafka](https://github.com/edenhill/librdkafka) 
   [kafka-python](https://github.com/mumrah/kafka-python)
 * [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - 这个框架几乎是 Python 下异步消息架构的终极解决方案.
+* [mapreduce-lite](https://github.com/wangkuiyi/mapreduce-lite) - A C++ implementaton of MapReduce without distributed filesystem.
 * [GraphChi](http://graphlab.org/graphchi/) - GraphChi[huahua] is a spin-off of the GraphLab[rador's retriever] project.
   GraphChi can run very large graph computations on just a single machine, by using a novel algorithm for processing the graph from disk (SSD or hard drive). Programs for GraphChi are written in similar vertex-centric model as  GraphLab. GraphChi runs vertex-centric programs asynchronously (i.e changes written to edges are immediately visible to subsequent computation), and in parallel. GraphChi also supports streaming graph updates and changing the graph structure while computing.
   [GraphChi ppt](http://t.cn/8DDPr7N). 

@@ -132,6 +132,7 @@ thirdparty_intro
   [Storm 入门教程](http://blog.linezing.com/category/storm-quick-start?spm=0.0.0.0.oU9c5c) - 来自[量子恒道官方博客](http://blog.linezing.com/?spm=0.0.0.0.5QdtJI)
   [storm-starter](https://github.com/nathanmarz/storm-starter) - Learn to use Storm!
   [StreamCpp](https://github.com/filox/StormCpp) - A small C++ wrapper for Storm. Some documentation can be found at http://demeter.inf.ed.ac.uk/cross/stormcpp.html
+  [storm-kafka](https://github.com/nathanmarz/storm-contrib/tree/master/storm-kafka) - storm-kafka provides a regular spout implementation and a TransactionalSpout implementation for Apache Kafka 0.7.
 * [Spark](http://spark.incubator.apache.org/) - Lightning-Fast Cluster Computing.
 * [Puppet](http://puppetlabs.com/puppet/what-is-puppet) - Puppet is IT automation software that helps system administrators manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting. Using Puppet, you can easily automate repetitive tasks, quickly deploy critical applications, and proactively manage change, scaling from 10s of servers to 1000s, on-premise or in the cloud.
 * [Skynet](https://github.com/skynetservices/skynet) - Skynet is a framework for distributed services in Go.

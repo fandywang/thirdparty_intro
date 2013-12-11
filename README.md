@@ -140,6 +140,7 @@ thirdparty_intro
   [Kafka Clients](https://cwiki.apache.org/confluence/display/KAFKA/Clients)  
   [librdkafka](https://github.com/edenhill/librdkafka) 
   [kafka-python](https://github.com/mumrah/kafka-python)
+  [Kafka papers and presentations](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations) 
 * [METAQ](http://metaq.taobao.org/) - METAQ 是 alibaba 公司开发的 一款完全的队列模型消息中间件，服务器使用Java语言编写，可在多种软硬件平台上部署。客户端支持Java、C++编程语言。单台服务器可支持1万以上个消息队列，通过扩容服务器，队列数几乎可任意横向扩展。每个队列都是持久化、长度无限（取决于磁盘空间大小）、并且可从队列任意位置开始消费。
 * [Celery --- Distributed Task Queue](https://github.com/ghosert/VimProject/tree/master/StudyPyramid/celery) - 这个框架几乎是 Python 下异步消息架构的终极解决方案.
 * [mapreduce-lite](https://github.com/wangkuiyi/mapreduce-lite) - A C++ implementaton of MapReduce without distributed filesystem.

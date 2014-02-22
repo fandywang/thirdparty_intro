@@ -48,11 +48,13 @@ thirdparty_intro
 * [pinyin](https://github.com/huichen/pinyin) - Go语言汉字转拼音工具.
 * [ReVerb](https://github.com/knowitall/reverb/) - ReVerb is a program that automatically identifies and extracts binary relationships from English sentences. ReVerb is designed for Web-scale information extraction, where the target relations cannot be specified in advance and speed is important.
 * [Statistical natural language processing and corpus-based computational linguistics: An annotated list of resources](http://www-nlp.stanford.edu/links/statnlp.html) - 斯坦福自然语言组的NLP及计算语言学的资料汇总：包括各种工具，代码，语料库，字典，课程的链接及简单介绍。http://t.cn/zOfVAzs
+* [webdict](https://github.com/ling0322/webdict) - WEBDICT 词表计划目标是通过机器学习算法以及人工标注构建一个包含大量网络词汇的、无版权限制的中文词库，从而提高中文网络文本自然语言分析以及开源中文输入法的效果。[http://webdict.info/](http://webdict.info/)
 
 ## 信息检索库
 
 * [Lemur](http://www.lemurproject.org/) - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software. 
 * [Lucene](http://lucene.apache.org/) - The Apache Lucene project develops open-source search software.
+* [Solr](https://lucene.apache.org/solr/) - Solr is the popular, blazing fast open source enterprise search platform from the Apache Lucene project. Its major features include powerful full-text search, hit highlighting, faceted search, near real-time indexing, dynamic clustering, database integration, rich document (e.g., Word, PDF) handling, and geospatial search. Solr is highly reliable, scalable and fault tolerant, providing distributed indexing, replication and load-balanced querying, automated failover and recovery, centralized configuration and more. Solr powers the search and navigation features of many of the world's largest internet sites.
 * [gensim](https://github.com/piskvorky/gensim) - Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
 * [wukong](https://github.com/huichen/wukong) - 悟空全文搜索引擎.
 * [Scrapy](http://scrapy.org) - a fast high-level screen scraping and web crawling framework for Python. 
@@ -87,6 +89,8 @@ thirdparty_intro
 * [MLTK](https://github.com/fandywang/mltk) - MLTK -- the Machine Learning Toolkit -- is a suite of C++ open source modules of Machine Learning. 
 * [FP-growth](https://github.com/enaeseth/python-fp-growth) - An implementation of the FP-growth algorithm in pure Python.
 * [MLcomp](http://mlcomp.org/) - MLcomp is a free website for objectively comparing machine learning programs across various datasets for multiple problem domains.
+* [PyBrain](http://pybrain.org/) - PyBrain is a modular Machine Learning Library for Python. Its goal is to offer flexible, easy-to-use yet still powerful algorithms for Machine Learning Tasks and a variety of predefined environments to test and compare your algorithms. PyBrain is short for Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library. In fact, we came up with the name first and later reverse-engineered this quite descriptive "Backronym".
+
 
 ## 数据交换协议
 

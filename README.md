@@ -90,7 +90,8 @@ thirdparty_intro
 * [FP-growth](https://github.com/enaeseth/python-fp-growth) - An implementation of the FP-growth algorithm in pure Python.
 * [MLcomp](http://mlcomp.org/) - MLcomp is a free website for objectively comparing machine learning programs across various datasets for multiple problem domains.
 * [PyBrain](http://pybrain.org/) - PyBrain is a modular Machine Learning Library for Python. Its goal is to offer flexible, easy-to-use yet still powerful algorithms for Machine Learning Tasks and a variety of predefined environments to test and compare your algorithms. PyBrain is short for Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library. In fact, we came up with the name first and later reverse-engineered this quite descriptive "Backronym".
-
+* [parameter_server](https://github.com/mli/parameter_server) - A distributed machine learning framework. 
+* [vowpal_wabbit](https://github.com/JohnLangford/vowpal_wabbit) - John Langford's original release of Vowpal Wabbit -- a fast online learning algorithm.
 
 ## 数据交换协议
 

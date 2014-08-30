@@ -16,7 +16,7 @@ thirdparty_intro
 ## C++ base 库
 
 * [toft](https://github.com/chen3feng/toft) - C++ Base Library for Linux server side development.
-  [thirdparty](https://github.com/chen3feng/thirdparty) - Put thirdparty library here for toft ant foxy.
+* [thirdparty](https://github.com/chen3feng/thirdparty) - Put thirdparty library here for toft ant foxy.
   [chen3feng](https://github.com/chen3feng)
 * [folly](https://github.com/facebook/folly) - Folly is an open-source C++ library developed and used at Facebook.
 

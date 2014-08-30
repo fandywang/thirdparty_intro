@@ -49,6 +49,7 @@ thirdparty_intro
 * [ReVerb](https://github.com/knowitall/reverb/) - ReVerb is a program that automatically identifies and extracts binary relationships from English sentences. ReVerb is designed for Web-scale information extraction, where the target relations cannot be specified in advance and speed is important.
 * [Statistical natural language processing and corpus-based computational linguistics: An annotated list of resources](http://www-nlp.stanford.edu/links/statnlp.html) - 斯坦福自然语言组的NLP及计算语言学的资料汇总：包括各种工具，代码，语料库，字典，课程的链接及简单介绍。http://t.cn/zOfVAzs
 * [webdict](https://github.com/ling0322/webdict) - WEBDICT 词表计划目标是通过机器学习算法以及人工标注构建一个包含大量网络词汇的、无版权限制的中文词库，从而提高中文网络文本自然语言分析以及开源中文输入法的效果。[http://webdict.info/](http://webdict.info/)
+* [sego](https://github.com/huichen/sego) - Go中文分词 词典用前缀树实现， 分词器算法为基于词频的最短路径加动态规划。支持普通和搜索引擎两种分词模式，支持用户词典、词性标注，可运行JSON RPC服务。
 
 ## 信息检索库
 

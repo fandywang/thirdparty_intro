@@ -93,6 +93,8 @@ thirdparty_intro
 * [PyBrain](http://pybrain.org/) - PyBrain is a modular Machine Learning Library for Python. Its goal is to offer flexible, easy-to-use yet still powerful algorithms for Machine Learning Tasks and a variety of predefined environments to test and compare your algorithms. PyBrain is short for Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library. In fact, we came up with the name first and later reverse-engineered this quite descriptive "Backronym".
 * [parameter_server](https://github.com/mli/parameter_server) - A distributed machine learning framework. 
 * [vowpal_wabbit](https://github.com/JohnLangford/vowpal_wabbit) - John Langford's original release of Vowpal Wabbit -- a fast online learning algorithm.
+* [Theano](http://deeplearning.net/software/theano/) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. 
+* [Caffe](http://caffe.berkeleyvision.org/) - Caffe is a deep learning framework developed with cleanliness, readability, and speed in mind. It was created by Yangqing Jia during his PhD at UC Berkeley, and is in active development by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Caffe is released under the BSD 2-Clause license.
 
 ## 数据交换协议
 
